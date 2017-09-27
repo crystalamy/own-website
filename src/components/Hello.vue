@@ -1,6 +1,10 @@
 <template>
   <div class="hello">
-    own-projectweqw
+    <router-link to="/">去首页</router-link>
+    <router-link to="/">去首页</router-link>
+    <router-link to="/">去首页</router-link>
+    <router-link to="/">去首页</router-link>
+    <router-link to="/">去首页</router-link>
   </div>
 </template>
 
