@@ -1,0 +1,25 @@
+{
+  "name": "own-website",
+  "version": "1.0.0",
+  "description": "This is my own website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "webpack": "webpack --config webpack.config.js --progress --display-modules --colors --display-reasons --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crystalamy/own-website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crystalamy/own-website/issues"
+  },
+  "homepage": "https://github.com/crystalamy/own-website#readme",
+  "devDependencies": {
+    "css-loader": "^0.28.7",
+    "style-loader": "^0.18.2",
+    "webpack": "^3.6.0"
+  }
+}
